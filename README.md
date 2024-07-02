@@ -1,7 +1,7 @@
 # codsoft_Task3
 **Task 3 assigned by codsoft :- creation of a Password Generator using python**
 
-- This password generator allows user to create a passowrd of length ranging 4 from to 20 including both 4 & 20
+- This password generator allows user to create a passowrd of length ranging from 4 to 20 including both 4 & 20
 - It provides 6 possible pattern for choosing strength of password that includes:
   **Low strength will include only lower case char** 
   1. Low + Alphabetical
