@@ -1,5 +1,6 @@
 # codsoft_Task3
-**Task 3 assigned by codsoft :- creation of a Password Generator using python**
+**Task 3 assigned by codsoft :- creation of a Password Generator using python.**
+
 _**It involves usage of python tkinter**_
 
 - This password generator allows user to create a passowrd of length ranging from 4 to 20 including both 4 & 20
